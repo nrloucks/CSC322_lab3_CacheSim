@@ -19,11 +19,11 @@ To run:
 	Example: ./cachesim -m 64 -s 4 -e 0 -b 4 -i addresses.txt -r lfu
   
 	Where,                                     ~ The File addresses.txt is provided 
-                                               as well and contains a list of 
-	m			address size in bits                   semi-random 64 bit addresses.
-	s			number of index bits
-	e			number of line bits 
-	b			size of block bits
+                                               	     as well and contains a list of 
+	m		address size in bits         semi-random 64 bit addresses.
+	s		number of index bits
+	e		number of line bits 
+	b		size of block bits
 	file		name of file containing a list of addresses
 	option		method used (lfu, fifo, opt)
 	
