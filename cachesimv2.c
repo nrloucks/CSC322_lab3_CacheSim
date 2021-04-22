@@ -1,4 +1,5 @@
 //CacheSim v2 - Nathan Loucks
+//THIS VERSION IS INCOMPLETE. Do not attempt to compile/use this version. It certainly will not work.
 
 //Libraries
 #include <stdio.h>
